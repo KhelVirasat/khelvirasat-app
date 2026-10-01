@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-  "test": "vitest run"
-},
+    "test": "vitest run"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KhelVirasat/khelvirasat-app.git"
@@ -34,7 +34,6 @@
     "expect-type": "^1.4.0",
     "fdir": "^6.5.0",
     "lightningcss": "^1.33.0",
-    "lightningcss-darwin-arm64": "^1.33.0",
     "magic-string": "^1.4.2",
     "nanoid": "^3.3.19",
     "obug": "^2.2.1",
